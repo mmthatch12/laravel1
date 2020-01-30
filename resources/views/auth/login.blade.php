@@ -1,6 +1,7 @@
 @extends('layouts.app')
 <!-- see this page for how I got auth to generate:
 https://stackoverflow.com/questions/34545641/php-artisan-makeauth-command-is-not-defined -->
+
 @section('content')
 <div class="container">
     <div class="row justify-content-center">
